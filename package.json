@@ -13,9 +13,9 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "@gitbeaker/rest": "39.19.0"
+    "@gitbeaker/rest": "39.18.0"
   },
   "overrides": {
-    "@gitbeaker/requester-utils": "39.19.0"
+    "@gitbeaker/requester-utils": "39.18.0"
   }
 }
